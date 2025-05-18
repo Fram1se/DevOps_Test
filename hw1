@@ -1,1 +1,2 @@
 print(input(f"введите число: "))
+#commit from VSC
